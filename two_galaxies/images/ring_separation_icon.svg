@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="90px" height="90px" viewBox="0 0 90 90" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>ring_separation_icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M44.4372377,28.091401 L44.4372377,45.0943363" id="Line" stroke="#FFFFFF" stroke-width="3" stroke-linecap="square"></path>
+        <polyline id="Path-2" stroke="#FFFFFF" stroke-width="3" transform="translate(44.437836, 43.972212) rotate(90.000000) translate(-44.437836, -43.972212) " points="41.3168593 38.9078548 47.5588121 43.7292766 41.4426819 49.0365693"></polyline>
+        <polyline id="Path-2" stroke="#FFFFFF" stroke-width="3" transform="translate(44.432625, 29.949996) scale(-1, 1) rotate(-90.000000) translate(-44.432625, -29.949996) " points="41.2771149 24.7682509 47.5881343 29.7152641 41.2771149 35.1317406"></polyline>
+        <path d="M80.4221051,33.5708782 C70.5260025,25.4106588 57.8426177,20.5092955 44.0144582,20.5092955 C30.194363,20.5092955 17.5177078,25.4049438 7.62412783,33.5566049" id="Oval" stroke="#FFFFFF" stroke-width="3"></path>
+        <path d="M66.1240283,68.3938641 C62.8708845,59.7295519 54.5101602,53.5636654 44.709316,53.5636654 C34.9205367,53.5636654 26.5683339,59.7143806 23.3066408,68.3618779" id="Oval" stroke="#FFFFFF" stroke-width="3"></path>
+    </g>
+</svg>
